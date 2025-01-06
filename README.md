@@ -40,15 +40,15 @@ Copy code
 cd amazon-clone
 Open index.html in your web browser to view the page.
 
-Usage
+## Usage
 Once you've cloned the repository and opened the index.html file in your browser, you will see the Amazon homepage clone. You can inspect the code, customize the design, and use it as a base for further learning and development.
 
-Contributing
+## Contributing
 Contributions are welcome! If you would like to improve this project or add new features, feel free to fork the repository and create a pull request.
 
 Please ensure that your contributions align with the purpose of this project, which is educational and for personal learning.
 
-License
+## License
 This project is not affiliated with or endorsed by Amazon. It is created solely for learning purposes. Feel free to use this as a reference but avoid using it for any commercial or unauthorized purposes.
 
 Thank you for visiting my project!
