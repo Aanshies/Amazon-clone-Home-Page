@@ -53,5 +53,3 @@ This project is not affiliated with or endorsed by Amazon. It is created solely 
 
 Thank you for visiting my project!
 
-markdown
-Copy code
