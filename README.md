@@ -1,6 +1,6 @@
 # Amazon Clone - Home Page
 
-This project is a clone of the first page of Amazon, created using HTML and CSS. The project was built by following an HTML and CSS tutorial by Shradha Didi. The main objective was to replicate the basic layout and structure of Amazon's homepage for learning purposes.
+This project is a clone of the Home page of Amazon, created using HTML and CSS. The project was built by following an HTML and CSS tutorial by Shradha Didi. The main objective was to replicate the basic layout and structure of Amazon's homepage for learning purposes.
 
 ## Table of Contents
 
