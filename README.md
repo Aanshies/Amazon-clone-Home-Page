@@ -30,23 +30,18 @@ This is a simple clone of the first page of Amazon using HTML and CSS. The desig
 
 To run this project on your local machine, follow these steps:
 
-## 1. Clone the repository:
-git clone https://github.com/Aanshies/Amazon-clone-Home-Page.git
+1. Clone the repository:  
+   `git clone https://github.com/Aanshies/Amazon-clone-Home-Page.git`
 
-## 2. Navigate to the project directory:
-cd amazon-clone
+2. Navigate to the project directory:  
+   `cd amazon-clone`
 
-## 3. Open index.html in your web browser to view the page.
-### You can open it in your default browser using the following commands based on your OS:
+3. Open `index.html` in your web browser to view the page.  
+   On **Windows**: `start index.html`  
+   On **macOS**: `open index.html`  
+   On **Linux**: `xdg-open index.html`
 
-## On Windows:
-start index.html
 
-## On macOS:
-open index.html
-
-## On Linux:
-xdg-open index.html
 
 ## Usage
 Once you've cloned the repository and opened the index.html file in your browser, you will see the Amazon homepage clone. You can inspect the code, customize the design, and use it as a base for further learning and development.
